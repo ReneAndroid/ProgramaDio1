@@ -1,0 +1,7 @@
+C:\Users\ReneAndroid.apk\source\repos\ProgramaDio\ProgramaDio\bin\Debug\ProgramaDio.exe.config
+C:\Users\ReneAndroid.apk\source\repos\ProgramaDio\ProgramaDio\bin\Debug\ProgramaDio.exe
+C:\Users\ReneAndroid.apk\source\repos\ProgramaDio\ProgramaDio\bin\Debug\ProgramaDio.pdb
+C:\Users\ReneAndroid.apk\source\repos\ProgramaDio\ProgramaDio\obj\Debug\ProgramaDio.csproj.AssemblyReference.cache
+C:\Users\ReneAndroid.apk\source\repos\ProgramaDio\ProgramaDio\obj\Debug\ProgramaDio.csproj.CoreCompileInputs.cache
+C:\Users\ReneAndroid.apk\source\repos\ProgramaDio\ProgramaDio\obj\Debug\ProgramaDio.exe
+C:\Users\ReneAndroid.apk\source\repos\ProgramaDio\ProgramaDio\obj\Debug\ProgramaDio.pdb
